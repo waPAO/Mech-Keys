@@ -1,0 +1,28 @@
+#crimson {
+    background-image: url('home_imgs/crimson_cadet.jpeg');
+    background-position: center;
+    background-size: cover;
+    padding-top: 1%;
+    padding-bottom: 30%;
+}
+
+#crimson h1 {
+    font-weight: lighter;
+    font: 70px;
+}
+
+#striker {
+    background-image: url('home_imgs/strikers.png');
+    background-position: center;
+    background-size: cover;
+    padding-top: 3%;
+    padding-bottom: 40%;
+}
+
+#striker p {
+    font-weight: lighter;
+    font: 30px;
+    color: white;
+    line-height: .5;
+}
+
