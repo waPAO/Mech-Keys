@@ -15,21 +15,47 @@
 }
 
 #intro p {
-    font-family: monospace;
-    font-size: 15px;
+    font-weight: lighter;
+    font-size: 22px;
     line-height: .5;
 }
 
 #layers {
     background-image: url('home_imgs/rama-u80.jpg');
     background-size: cover;
-    padding-top: 5%;
+    padding-top: 2%;
     padding-bottom: 30%;
+}
+
+#layers h2 {
+    font-weight: lighter;
 }
 
 #layers2 {
     background-image: url('home_imgs/rama-m6-c.jpeg');
     background-size: cover;
-    padding-top: 5%;
-    padding-bottom: 30%;
+    padding-top: 2%;
+    padding-bottom: 45%;
+}
+
+#layers2 h2 {
+    font-weight: lighter;
+}
+
+#oni {
+    background-image: url('home_imgs/oni.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 4%;
+    padding-bottom: 35%;
+}
+
+#oni h2 {
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+#oni p {
+    font-weight: lighter;
+    font-size: 20px;
 }
